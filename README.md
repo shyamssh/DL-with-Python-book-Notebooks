@@ -13,3 +13,6 @@ These notebooks use Python 3.6 and Keras 2.4.3
     * [3.5: Classifying movie reviews](https://github.com/shyamssh/DL-with-Python-book-Notebooks/blob/notebooks-3rd-chapter/notebooks/3.5-classifying-movie-reviews.ipynb)
     * [3.6: Classifying newswires](https://github.com/shyamssh/DL-with-Python-book-Notebooks/blob/notebooks-3rd-chapter/notebooks/3_6_classifying_newswires.ipynb)
     * [3.7: Predicting house prices](https://github.com/shyamssh/DL-with-Python-book-Notebooks/blob/notebooks-3rd-chapter/notebooks/3_7_predicting_house_prices.ipynb)
+* Chapter 4
+* Chapter 5 
+    * [5.1: Introduction-to-convnets.ipynb](https://github.com/shyamssh/DL-with-Python-book-Notebooks/blob/master/notebooks/5.1-introduction-to-convnets.ipynb)
